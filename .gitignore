@@ -12,7 +12,5 @@ __pycache__/
 
 
 # Data & Artifacts
-/data/*
-!data/.gitkeep
 models/
 *.joblib
